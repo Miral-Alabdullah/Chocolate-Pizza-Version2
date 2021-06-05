@@ -43,3 +43,85 @@ hr {
     border:0;
     border-color: #000;
 } 
+
+/*********************Main*********************/
+
+main {
+    padding: 5% 0 5% 0;
+    position: relative;
+}
+
+section h2 {
+    font-size: 35px;
+    font-family: 'Coda', cursive;
+    font-weight: bolder;
+}
+#main-heading {
+    padding-bottom: 2%;
+}
+
+#main-heading p {
+    font-size: 13px;
+    color: rgb(197, 197, 197);
+    font-family: 'Coda', cursive;
+    line-height: 20px;
+}
+
+#main-heading div {
+    position: absolute;
+    right: 0%;
+    top: 6%;
+    font-size: 13px;
+    color: rgb(197, 197, 197);
+    font-family: 'Coda', cursive;
+    line-height: 20px;
+}
+
+#hero-img img{
+    width: 100%;
+}
+
+.paragraph {
+    text-align: justify;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 3px;
+    text-indent: 30px;
+    color: rgb(104, 103, 103);
+    line-height: 20px;
+}
+
+#container {
+    position: relative;
+    width: 80%;
+}
+#container img{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#item-list{
+    width: 100%;
+    position: absolute;
+    top: 13%;
+    left: 13%;
+}
+.item { 
+    display: inline-block;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    color:#8b6d3e;
+    font-weight: bold;
+    line-height: 35px;
+    padding-left: 10%;
+    margin-left: 2%;
+}
+.item1{
+    text-decoration: line-through;
+}
+
+
+
+
+
