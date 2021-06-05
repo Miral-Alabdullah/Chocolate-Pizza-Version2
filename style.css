@@ -33,7 +33,7 @@ nav ul {
     right:0%;
     bottom:21%;
 }
-hr { 
+#hr-image{ 
     /*The credtis of this part goes to stack overflow*/
     display: block;
     margin-left: auto;
@@ -121,7 +121,75 @@ section h2 {
     text-decoration: line-through;
 }
 
+#Vanessa {
+    line-height: 40px;
+    width: 100%;
+    position: relative;
+}
 
+#Vanessa h3 {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+#Vanessa p {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
 
+/* .sub-heading {
+    display: inline-block;
+    height: 40%;
+} */
+#info {
+    width: 80%;
+}
 
+.sub-heading h3, .sub-heading p {
+    margin-left: 10%;
+}
+
+#sub-heading-1{
+    width: 100%;
+}
+
+#btn button {
+    float: right;
+    width: 150px;
+    background-color: #bc7058;
+    height: 55px;
+    margin-top: -70px;
+    border: none;
+    font-size: 18px;
+    color: rgb(253, 250, 250);
+    font-style: normal;
+}
+
+.sub-heading p {
+    width: 80%;
+}
+
+#box-heading {
+    width: 100%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+
+footer {
+    position: relative;
+    padding: 0 0 2% 0;
+}
+
+#footer-image {
+    position: absolute;
+    bottom: 175%;
+    left: 50%;
+}
+
+#credits {
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(139, 139, 139);
+}
 
