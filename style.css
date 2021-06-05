@@ -39,7 +39,7 @@ nav ul {
     margin-left: auto;
     margin-right: auto;
     height:20px;
-    background:url('images/hr-img.png');
+    background-image:url('images/hr-img.png');
     border:0;
     border-color: #000;
 } 
